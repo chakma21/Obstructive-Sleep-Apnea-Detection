@@ -18,7 +18,7 @@ The objective is to explore an **automated and data-driven approach** that can a
 - **Language**: Python  
 - **Numerical & Data Processing**: NumPy, Pandas  
 - **Signal Processing**: SciPy 
-- **Machine Learning**: sklearn  
+- **Machine Learning**: scikit-learn  
 - **Visualization**: Matplotlib, Seaborn
 
 ---
