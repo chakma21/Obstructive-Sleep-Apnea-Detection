@@ -12,7 +12,7 @@ This project leverages **time-domain and frequency-domain features** extracted f
 
 ## ⚙️ Tech Stack
 
-- **Language & Frameworks**: Python, PyTorch  
+- **Language**: Python
 - **Data Processing**: NumPy, Pandas, SciPy  
 - **Signal Analysis**: Feature extraction from PSG signals  
 
